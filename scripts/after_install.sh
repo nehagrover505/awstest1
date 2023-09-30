@@ -4,6 +4,6 @@
 # This script is executed after the new version of your application is installed.
 
 # Start or restart the application service
-sudo systemctl start httpd
+sudo systemctl start nginx
 
 # Perform any post-installation configuration, e.g., updating application settings
